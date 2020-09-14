@@ -11,9 +11,9 @@
 
 ---
 
-### Name: Enter your name
+### Name: Chloe Hendrikse
 
-### Email: Enter your OU email
+### Email: ch881518@ohio.edu
 
 ---
 
